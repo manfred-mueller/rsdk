@@ -4,7 +4,7 @@
         "product_name": "ROCK Pi 4B",
         "product_full_name": "ROCK Pi 4B",
         "soc": "rk3399",
-        "supported_suite": ["bullseye"],
-        "supported_edition": ["kde"]
+        "supported_suite": ["bookworm"],
+        "supported_edition": ["xfce"]
     }
 ]
