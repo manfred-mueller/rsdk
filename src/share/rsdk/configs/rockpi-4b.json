@@ -1,0 +1,10 @@
+[
+    {
+        "product": "rock-pi-4b",
+        "product_name": "ROCK Pi 4B",
+        "product_full_name": "ROCK Pi 4B",
+        "soc": "rk3399",
+        "supported_suite": ["bullseye"],
+        "supported_edition": ["kde"]
+    }
+]
